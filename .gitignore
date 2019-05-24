@@ -1,0 +1,7 @@
+**/__pycache__
+*.lock
+dist
+build
+.env
+.linux_env
+.vscode
